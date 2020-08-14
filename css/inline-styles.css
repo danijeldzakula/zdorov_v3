@@ -1,0 +1,48 @@
+.check_box_agree {
+    margin: 5px 0;
+    font-size: 12px;
+    position: relative;
+    z-index: 10;
+}
+
+.check_box_agree input {
+    margin: 5px 10px;
+    display: inline
+}
+
+.check_box_agree a {
+    border: 1px solid #8e8e8e;
+    color: #8e8e8e;
+    background-color: white;
+    border-radius: 50%;
+    padding: 0 6px
+}
+
+.check_box_agree a:hover {
+    background-color: red;
+    color: #ffffff;
+    border: none
+}
+
+.checkbox_content p {
+    color: #000000
+}
+
+.checkbox_content {
+    background-color: #ffffff;
+    position: absolute;
+    width: 300px;
+    padding: 10px;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+a.checkbox_close {
+    color: #8e8e8e;
+    font-size: 16px;
+    float: right;
+    border: none;
+    background: transparent;
+    margin-right: -10px;
+    margin-top: -10px;
+}
