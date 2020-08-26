@@ -685,3 +685,15 @@ p {
     width: auto;
     height: auto;
 }
+
+.brand__logos {
+  width: 167px;
+    height: 50px;
+    color: #2d598a;
+    background-image: none;
+    display: flex;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";  
+}
