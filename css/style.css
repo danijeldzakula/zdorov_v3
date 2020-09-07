@@ -453,7 +453,7 @@ p {
   position: relative;
   left: -52px;
   z-index: 0;
-  bottom: 25px; }
+  bottom: 11px; }
 
 .fs16 {
   font-size: 1.6rem; }
@@ -487,7 +487,8 @@ p {
   border: none; }
 
 .inv img {
-  margin-bottom: 1em; }
+  margin-bottom: 0; 
+}
 
 .link {
   cursor: pointer; }
@@ -573,7 +574,7 @@ p {
     padding-bottom: 50px; }
 
   .inv img {
-    margin: 0 auto 1em;
+    margin: 0 auto;
     display: block; }
 
   .sostav__block_1 {
